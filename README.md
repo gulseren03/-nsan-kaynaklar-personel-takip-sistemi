@@ -25,4 +25,4 @@
 ## Ekran Görüntüleri
 
 ### Giriş Sayfası
-![Giriş Sayfası]
+![Giriş Sayfası](
